@@ -1,0 +1,112 @@
+
+{
+    _id  ObjectId(60e7295e8a3d1307255fe766),
+    poruke  [ 
+        {
+            idPoruke  1,
+            tekst  Zdravo Aco zeleo bih da te pitam nesto u vezi sa jednim zadatkom iz OET-a!,
+            poslao  mare123,
+            datum  27.6.2021 115454
+        }, 
+        {
+            idPoruke  2,
+            tekst  Naravno slobodno pitaj sve sto ti nije jasno!,
+            poslao  aca123,
+            datum  28.6.2021 73051
+        }, 
+        {
+            idPoruke  3,
+            tekst  Zadatak koji me buni je 35. iz zbirke!,
+            poslao  mare123,
+            datum  28.6.2021 124553
+        }, 
+        {
+            id  4,
+            poslao  mare123,
+            datum  9.7.2021 92411,
+            tekst  Da li mozda znas u koliko sati nam je cas iz istorije
+        }, 
+        {
+            id  5,
+            poslao  mare123,
+            datum  9.7.2021 131427,
+            tekst  Hvala na odgovoru!
+        }, 
+        {
+            id  6,
+            poslao  mare123,
+            datum  9.7.2021 131459,
+            tekst  Bas si dobar drug...
+        }, 
+        {
+            id  7,
+            poslao  mare123,
+            datum  9.7.2021 131549,
+            tekst  Mnogo si me razocarao Aleksandre
+        }, 
+        {
+            id  8,
+            poslao  mare123,
+            datum  9.7.2021 171631,
+            tekst  E moj Aco...
+        }
+    ],
+    osoba1  mare123,
+    osoba2  aca123,
+    neprocitano_osoba1  1,
+    neprocitano_osoba2  0,
+    id  1
+}
+
+{
+    _id  ObjectId(60e736c38a3d1307255feb48),
+    poruke  [ 
+        {
+            idPoruke  1,
+            tekst  Cao Kosta, sta radis,
+            poslao  mare123,
+            datum  27.6.2021 115454
+        }, 
+        {
+            idPoruke  2,
+            tekst  Nista brate, odmaram malo, ti,
+            poslao  kole123,
+            datum  28.6.2021 73051
+        }, 
+        {
+            id  3,
+            poslao  mare123,
+            datum  9.7.2021 112433,
+            tekst  Kada cemo poceti matematiku da spremamo
+        }, 
+        {
+            id  4,
+            poslao  mare123,
+            datum  9.7.2021 171613,
+            tekst  Nikad a
+        }
+    ],
+    osoba1  kole123,
+    osoba2  mare123,
+    neprocitano_osoba1  1,
+    neprocitano_osoba2  0,
+    id  2
+}
+
+{
+    _id  ObjectId(60e8683055415827dcfd17a9),
+    poruke  [ 
+        {
+            idPoruke  1,
+            datum  9.7.2021 17160,
+            poslao  mare123,
+            tekst  Dobar dan razredna!
+        }
+    ],
+    id  3,
+    osoba1  mare123,
+    osoba2  viki123,
+    neprocitano_osoba1  1,
+    neprocitano_osoba2  0,
+    __v  0
+}
